@@ -1,0 +1,58 @@
+king
+queen
+prince
+princess
+monarch
+sovereign
+crown
+palace
+throne
+duke
+duchess
+earl
+countess
+regent
+parliament
+house of commons
+house of lords
+prime minister
+cabinet
+minister
+chancellor
+mp
+constituency
+bill
+law
+election
+vote
+government
+policy
+Church of England
+The Vatican
+bishop
+archbishop
+priest
+clergy
+chapel
+chaplain
+chaplaincy
+vicar
+ordination
+diocese
+abbot
+nun
+father
+mother
+son
+daughter
+heir
+heiress
+lineage
+succession
+primogeniture
+patrilineal
+matrilineal
+birthright
+estate
+title
+dynasty
